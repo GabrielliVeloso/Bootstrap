@@ -1,0 +1,63 @@
+body {
+    font: 20px;
+    font-family:'Comfortaa'
+}
+
+
+.navbar {
+    background-color: rgba(150, 204, 51, 0.842) ;
+    font-family: 'Comfortaa' ;
+    font-size: 20px;
+    
+   }
+
+.quem-somos {
+    background-color: rgba(241, 161, 41, 0.815);
+    color: rgb(54, 52, 52)
+}
+
+.parceiros {
+    background-color: rgb(152, 196, 181);
+    font-family:'Comfortaa' ;
+    color: rgb(54, 52, 52)
+}
+
+.serviços {
+    background-color: rgb(184, 142, 204);
+    font-family:'Comfortaa' ;
+    color: rgb(54, 52, 52) ;
+    padding-bottom: 15px;
+}
+
+.margin{
+    padding-top:  35px;
+    padding-bottom: 50px;
+}
+
+.texto1  {
+    padding-top: 20px;
+    
+}
+
+.titulo1  {
+    padding-bottom: 50px;
+}
+
+.titulo2 {
+    padding-bottom: 50px;
+}
+
+.descrição {
+    font-family:'Comfortaa' ;
+    color: rgb(54, 52, 52) ;
+    font-size: 20px;
+}
+
+.rodape {
+    padding-top: 25px;
+    background-color: rgb(240, 180, 140);
+    font-family:'Comfortaa' ;
+    color: rgb(255, 250, 250) ;
+    font-size: 20px;
+
+}
